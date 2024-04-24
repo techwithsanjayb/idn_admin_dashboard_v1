@@ -5,7 +5,7 @@ def home(request):
     return render(request,'core/home.html')
 
 def add_new_url(request):
-    pass
+    return render(request,'core/url_add_form.html')
 
 def total_record_table(request):
-    pass
+    return render(request,'core/total_record_table.html')
