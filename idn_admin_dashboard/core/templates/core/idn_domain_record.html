@@ -1,0 +1,166 @@
+{% extends 'core/base.html' %}
+{% load static %}
+{% block idn_domain_record_content %}
+  <div class="container-fluid mt-3">
+    <div class="row">
+      {% if messages %}
+        {% for message in messages %}
+          <div class="col-lg-12">
+            <div class="alert alert-primary">{{ message }}</div>
+          </div>
+        {% endfor %}
+      {% endif %}
+    </div>
+    <div class="row">
+      <div class="col-lg-3 col-sm-6">
+        <div class="card gradient-1">
+          <div class="card-body">
+            <h3 class="card-title text-white">Total English Domains</h3>
+            <div class="d-inline-block">
+              <h2 class="text-white">{{ English_Domain_total_records }}</h2>
+              <p class="text-white mb-0">Jan - March 2019</p>
+            </div>
+            <span class="float-right display-5 opacity-5"><i class="fa fa-shopping-cart"></i></span>
+          </div>
+        </div>
+      </div>
+      <div class="col-lg-3 col-sm-6">
+        <div class="card gradient-2">
+          <div class="card-body">
+            <h3 class="card-title text-white">Total IDN Domains</h3>
+            <div class="d-inline-block">
+              <h2 class="text-white">{{ URL_dashboard_total_records }}</h2>
+              <p class="text-white mb-0">Jan - March 2019</p>
+            </div>
+            <span class="float-right display-5 opacity-5"><i class="fa fa-money"></i></span>
+          </div>
+        </div>
+      </div>
+      <div class="col-lg-3 col-sm-6">
+        <div class="card gradient-3">
+          <div class="card-body">
+            <h3 class="card-title text-white">Total No of Domains not functional</h3>
+            <div class="d-inline-block">
+              <h2 class="text-white">4565</h2>
+              <p class="text-white mb-0">Jan - March 2019</p>
+            </div>
+            <span class="float-right display-5 opacity-5"><i class="fa fa-users"></i></span>
+          </div>
+        </div>
+      </div>
+      <div class="col-lg-3 col-sm-6">
+        <div class="card gradient-4">
+          <div class="card-body">
+            <h3 class="card-title text-white">Total No of SSL not valid</h3>
+            <div class="d-inline-block">
+              <h2 class="text-white">99%</h2>
+              <p class="text-white mb-0">Jan - March 2019</p>
+            </div>
+            <span class="float-right display-5 opacity-5"><i class="fa fa-heart"></i></span>
+          </div>
+        </div>
+      </div>
+    </div>
+
+    <div class="row">
+      <div class="col-12">
+        <div class="card">
+          <div class="card-body">
+            <h4 class="card-title">IDN Domain Status</h4>
+            <div class="table-responsive">
+              <table class="table table-striped table-bordered zero-configuration">
+                <thead>
+                  <tr>
+                    <th>Name</th>
+                    <th>English Domain</th>
+                    <th>IDN Domain</th>
+                    <th>SSL Status</th>
+                    <th>Domain Functionality</th>
+                    <th>Home Page Content Language</th>
+                    <th>Record Created On</th>
+                    <th>Last Updated On</th>
+                    <th>Remark</th>
+                  </tr>
+                </thead>
+                <tbody>
+                  {% for data in URL_dashboard_obj %}
+                    <tr>
+                      <td>{{ data.English_domain }}</td>
+                      <td>{{ data.Language }}</td>
+                      <td>{{ data.IDN_domain }}</td>
+                      <td>{{ data.ssl_configuration_status }}</td>
+                      <td>{{ data.idn_domain_running_status }}</td>
+                      <td>{{ data.content_language }}</td>
+                      <td>{{ data.updated_On }}</td>
+                      <td>{{ data.Last_Updated_On }}</td>
+                      <td>{{ data.Remark }}</td>
+                    </tr>
+                  {% endfor %}
+                </tbody>
+              </table>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+    <div class="row">
+      <div class="col-lg-6">
+        <div class="card">
+          <div class="card-body">
+            <h4 class="card-title">Add New IDN Domain</h4>
+            <div class="basic-form">
+              <form method="POST" action="">
+                {% csrf_token %}
+                <div class="form-group">
+                  <label>Select English Domain</label>
+                  {{ idn_dashboard_form_obj.English_domain }}
+                </div>
+                <div class="form-group">
+                  <label>Select IDN Language</label>
+                  {{ idn_dashboard_form_obj.Language }}
+                </div>
+                <div class="form-group">
+                  <label>Enter IDN URL</label>
+                  {{ idn_dashboard_form_obj.IDN_domain }}
+                </div>
+                <div class="form-group">
+                  <input type="hidden" name="form_type" value="IDNDOMAINFORM" />
+                </div>
+
+                <div class="outline-button">
+                  <button type="submit" class="btn mb-1 btn-outline-primary">Submit</button>
+                </div>
+              </form>
+            </div>
+          </div>
+        </div>
+      </div>
+      <div class="col-lg-6">
+        <div class="card">
+          <div class="card-body">
+            <h4 class="card-title">Add New English Domain</h4>
+            <div class="basic-form">
+              <form method="POST" action="">
+                {% csrf_token %}
+                <div class="form-group">
+                  <label>Select Category</label>
+                  {{ English_Domain_Form_obj.category }}
+                </div>
+                <div class="form-group">
+                  <label>Enter English Domain</label>
+                  {{ English_Domain_Form_obj.domain_name }}
+                </div>
+                <div class="form-group">
+                  <input type="hidden" name="form_type" value="ENGDOMAINFORM" />
+                </div>
+                <div class="outline-button">
+                  <button type="submit" class="btn mb-1 btn-outline-primary">Submit</button>
+                </div>
+              </form>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+{% endblock %}

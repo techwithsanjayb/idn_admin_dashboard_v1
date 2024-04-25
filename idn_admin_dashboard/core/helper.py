@@ -15,6 +15,7 @@ def create_text_file(filename, content):
     with open(filename, "w",encoding='utf-8') as file:
         file.write(content)
 
+
 def check_and_update(url):
     print("calling celery")
     timeout_seconds = 10  # Set the timeout period to 10 seconds

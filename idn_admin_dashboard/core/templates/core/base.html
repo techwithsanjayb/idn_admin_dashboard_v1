@@ -21,9 +21,8 @@
     <!-- Custom Stylesheet -->
     <link href="{% static 'core/css/style.css' %}" rel="stylesheet" />
 
-    <!-- Datatable stylesheet-->
-    <link href="{% static 'core/plugins/tables/css/datatable/dataTables.bootstrap4.min.css' %}" rel="stylesheet" type="text/css">
-  
+    <!-- Datatable stylesheet -->
+    <link href="{% static 'core/plugins/tables/css/datatable/dataTables.bootstrap4.min.css' %}" rel="stylesheet" type="text/css" />
   </head>
 
   <body>
@@ -56,6 +55,10 @@
         {% endblock %}
 
         {% block total_record_table_content %}
+
+        {% endblock %}
+
+        {% block idn_domain_record_content %}
 
         {% endblock %}
       </div>
