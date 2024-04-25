@@ -2,8 +2,25 @@
 {% load static %}
 {% block url_add_form_content %}
   <div class="container-fluid mt-3">
+    {% if messages %}
+        {% for message in messages %}
+          {{message}}
+        {% endfor %}
+    {% endif %}
     <div class="row">
-      <h1>Add Your Form Here</h1>
+      <form method="POST" action="">
+        {% csrf_token %}
+        
+            <label for="inputEnglishDomain">Select English Domain: <span class="text-danger">* </span></label><div>{{idn_dashboard_form_obj.English_domain}}</div>
+        
+       
+            <label for="inputIdnDomain">Enter IDN Domain: <span class="text-danger">* </span></label><div>{{idn_dashboard_form_obj.IDN_domain}}</div>
+       
+      
+            <label for="inputLanguage">Select Language: <span class="text-danger">* </span></label><div>{{idn_dashboard_form_obj.Language}}</div>  
+        
+        <button type="submit" class="btn btn-primary">Submit</button>
+      </form>
     </div>
   </div>
 {% endblock %}
