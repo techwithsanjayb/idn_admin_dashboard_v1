@@ -6,6 +6,14 @@ from django.shortcuts import get_object_or_404
 import requests
 import certifi
 from bs4 import BeautifulSoup
+from urllib.parse import urlparse
+import os
+
+
+
+def create_text_file(filename, content):
+    with open(filename, "w",encoding='utf-8') as file:
+        file.write(content)
 
 def check_and_update(url):
     print("calling celery")
@@ -50,7 +58,19 @@ def check_and_update(url):
                     
             # Extract text content from HTML
             text = soup.get_text()
-            # print('text content', text)       
+            
+            # break into lines and remove leading and trailing space on each
+            lines = (line.strip() for line in text.splitlines())
+            # break multi-headlines into a line each
+            chunks = (phrase.strip() for line in lines for phrase in line.split("  "))
+            # drop blank lines
+            text = '\n'.join(chunk for chunk in chunks if chunk)
+
+            
+            filename = '1.txt'
+            
+            create_text_file(filename, text)
+               
             # Detect language of the text
             try:
                 service_url = 'http://gist-nlp-cip:8080/languageIdentify'
@@ -84,6 +104,3 @@ def check_protocol(url):
         updated_url = "https://" + url
     return updated_url 
 
-
-def extract_domain(url):
-    pass
