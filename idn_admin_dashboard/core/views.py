@@ -97,6 +97,10 @@ def add_new_url_english(request):
 def idn_domain_record(request):
     English_Domain_total_records = English_Domain.objects.count()
     URL_dashboard_total_records = URL_dashboard.objects.count()
+    URL_dashboard_total_records_governmnet = English_Domain.objects.filter(category__category_name="Government").count()
+    URL_dashboard_total_records_private = English_Domain.objects.filter(category__category_name="Private").count()
+    
+
     URL_dashboard_obj = URL_dashboard.objects.all()
     English_Domain_Form_obj = English_Domain_Form()
     idn_dashboard_form_obj = idn_dashboard_form()
@@ -159,7 +163,7 @@ def idn_domain_record(request):
                 messages.error(request, 'Please correct errors')
                 return render(request,'core/idn_domain_record.html', {'idn_dashboard_form_obj': idn_dashboard_form_obj,'English_Domain_Form_obj':English_Domain_Form_obj})
     else:
-        return render(request,'core/idn_domain_record.html', {'idn_dashboard_form_obj': idn_dashboard_form_obj,'English_Domain_Form_obj':English_Domain_Form_obj,'URL_dashboard_obj':URL_dashboard_obj,'URL_dashboard_total_records':URL_dashboard_total_records,'English_Domain_total_records':English_Domain_total_records})
+        return render(request,'core/idn_domain_record.html', {'idn_dashboard_form_obj': idn_dashboard_form_obj,'English_Domain_Form_obj':English_Domain_Form_obj,'URL_dashboard_obj':URL_dashboard_obj,'URL_dashboard_total_records':URL_dashboard_total_records,'English_Domain_total_records':English_Domain_total_records,'URL_dashboard_total_records_governmnet':URL_dashboard_total_records_governmnet,'URL_dashboard_total_records_private':URL_dashboard_total_records_private})
         
 
  
