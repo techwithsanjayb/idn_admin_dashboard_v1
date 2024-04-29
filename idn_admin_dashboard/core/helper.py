@@ -2,7 +2,7 @@ import json
 import ssl
 from celery import shared_task
 from .models import *
-from django.shortcuts import get_object_or_404
+from django.shortcuts import get_object_or_404,Http404
 import requests
 import certifi
 from bs4 import BeautifulSoup
@@ -10,32 +10,37 @@ from urllib.parse import urlparse
 import os
 from idn_admin_dashboard.logger import log, logs
 
+def check_protocol(url):
+    print("Inside check protocol-------")
+    if url.__contains__("https" or "http"):
+        print("If contains https")
+        #logs(f"{url} contain https or http ")
+        updated_url =  url
+    else:
+        print("If does not contains https")
+        # logs(f" Adding https or http in {url} ")
+        updated_url = "https://" + url
+        # logs(f"returning Updated url")
+    return updated_url 
+
 
 def create_text_file(filename, content):
     with open(filename, "w",encoding='utf-8') as file:
         file.write(content)
 
-
-def check_and_update(url):
-    
-    logs(f"Check and Update Function called to update status of domain parameter {url}")
+def check_all_services(url):
     timeout_seconds = 10  # Set the timeout period to 10 seconds
-    print("Url Found : ", url)
-    try:
-        logs(f"Fetching Domain instance from Databse based on URL provided {url} ")
-        instance = get_object_or_404(URL_dashboard, IDN_domain=url)
-        print("Instance Found : ",instance)
-    except Exception as e:
-         logs(f"Exception Occured {e}--- Fetching Domain {url} instance from Database based on URL provided ")
-         print("Error occured...")
     # CHECK IF DOMAIN IS FUNCTIONAL OR NOT 
+
     try:
-        logs(f"Checking that Fetched Domain {url} is running or not by request.get method")  
+        logs(f"Checking that Fetched Domain {url} is running or not by request.get method")
         instance = get_object_or_404(URL_dashboard, IDN_domain=url)  
         response = requests.get(url, verify=False,timeout=timeout_seconds)
+        print("Response : ", response)
         if response.status_code == 200:
-            logs(f"{url} Domain Status is 200 IT is running") 
-            instance.idn_domain_running_status = 'True'
+            logs(f"{url} Domain Status is 200 IT is running")
+            instance.idn_domain_running_status = True
+            instance.save()
             logs(f"{url} Domain Status has been updated to true") 
    
     except requests.ConnectionError as e:
@@ -67,8 +72,8 @@ def check_and_update(url):
             instance.ssl_configuration_status = 'SSL Error'
             logs(f"SSL Status has been updated to SSL Error")
 
+    
     # CHECK LANGUAGE OF HOMEPAGE OF WESBITE  
-
     try:
         logs(f"Checking that Fetched Domain {url} is running or not by request.get method to content language check") 
         # Fetch HTML content from the URL
@@ -123,21 +128,32 @@ def check_and_update(url):
     except requests.ConnectionError as e:
             instance.content_language = 'Connection Error'
             logs(f"language content language is not set because of Connection Error")
+
+def check_and_update(url):
+    logs(f"++++================================={url}==========================================++++")
+    logs(f"Check and Update Function called to update status of domain parameter {url}")
+    print("Url Found : ", url)
+    try:
+        logs(f"Fetching Domain instance from Databse based on URL provided {url} ")
+        instance = get_object_or_404(URL_dashboard, IDN_domain=url)
+        print("Instance Found : ",instance)
+    except Exception as e:
+        logs(f"Exception Occured {e}--- Fetching Domain {url} instance from Database based on URL provided")
+        print("Error occured...")
+    
+    check_all_services(url)
+    
     # Save the instance to persist the changes
     logs(f"Parameters have been updated and instance has been saved ")
     instance.save()  
 
 
-def check_protocol(url):
-    print("Inside check protocol-------")
-    if url.__contains__("https" or "http"):
-        print("If contains https")
-        #logs(f"{url} contain https or http ")
-        updated_url =  url
-    else:
-        print("If does not contains https")
-        # logs(f" Adding https or http in {url} ")
-        updated_url = "https://" + url
-        # logs(f"returning Updated url")
-    return updated_url 
+def check_all_idn_domains():    
+    all_idn_domain_objects = URL_dashboard.objects.values_list('IDN_domain', flat=True)
+     # CHECK IF DOMAIN IS FUNCTIONAL OR NOT 
+    for url in all_idn_domain_objects:
+        print("domain url ----------------------",url)
+        check_all_services(url)
+            
 
+   
