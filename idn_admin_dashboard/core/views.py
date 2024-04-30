@@ -9,6 +9,7 @@ from urllib.parse import urlparse
 
 
 def extract_domain(url):
+    url = check_protocol(url)
     parsed_url = urlparse(url)
     domain_with_scheme = f"{parsed_url.scheme}://{parsed_url.netloc}"
     return domain_with_scheme
@@ -45,8 +46,8 @@ def idn_domain_forms(request):
                     URL_extracted = form.cleaned_data['IDN_domain']
 
                     # Check URL Protocal and updating
-                    # domain_extract = extract_domain(URL_extracted)
-                    URL_extracted =  check_protocol(URL_extracted)
+                    URL_extracted = extract_domain(URL_extracted)
+                    # URL_extracted =  check_protocol(URL_extracted)
                     
                     # print('domain extracter',domain_extract)
                     print('URL_extracted',URL_extracted)

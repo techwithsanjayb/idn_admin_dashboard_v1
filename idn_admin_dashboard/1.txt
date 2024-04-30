@@ -1,8 +1,8 @@
-Bhashanet : Empowering Multilingual Internet
-Skip to main Content
-Assistance
-Feedback
-Select languages
+भाषानेट : बहुभाषिक महाजालाचे सक्षमीकरण
+मुख्य पानाकडे जा
+सहाय्य
+प्रतिसाद
+Marathi-मराठी
 English
 Hindi-हिंदी
 Assamese-অসমীয়া
@@ -26,121 +26,123 @@ Sindhi-सिंधी
 Tamil-தமிழ்
 Telugu-తెలుగు
 Urdu- اردو
-Go
-Home
-About
-UA India Programme
-.bharat IDN-ccTLDs
-Resources
-Tools
-UA & Multilingual Internet Report
-UA Documents
-Best Practices
-UA Sample Code
-Events
-Become UA Ready
-IDN Websites
-Technical Corner
-BhashaNet
-A Multilingual Internet and Universal Acceptance Initiative
-Provides an eco system to enable citizen to easily create, communicate, transact, process and retrieve information with ease in digital medium without language barrier.
-Shri S. Krishnan
-Secretary (Ministry of Electronics and Information Technology)
-Internet has transformative potential in democratizing access to information, yet its true efficacy lies in its multilingual adaptation. By championing the Universal Acceptance ini
-... Read More
-Shri Sushil Pal
-Joint Secretary (Ministry of Electronics and Information Technology)
-Collection of networks defines the internet but networks are incomplete without the Universal Acceptance. For accelerating digital inclusion, the one thing that we can do certainly
-... Read More
-Dr. Devesh Tyagi
-CEO ( NIXI )
-India is proud to champion a more inclusive and accessible internet for all. At NIXI, we are firmly committed to fostering a universal acceptance environment where everyone can acc
-... Read More
+शोध
+मुख्यपान
+आमच्याबद्दल
+युएचा भारतातील क्रार्यक्रम
+.भारत आयडीएन- सीसीटीएलडी
+संसाधने
+साधने
+बहुभाषिक इंटरनेट सशक्त करणे
+यूए दस्तावेज
+सर्वोत्तम पद्धती
+यूए सैंपल कोड
+क्रार्यक्रम
+युएसाठी तयार व्हा
+आयडीएन वेबसाइट्स
+तांत्रिक कोपरा
+भाषानेट
+बहुभाषिक महाजाल आणि सार्वत्रिक मान्यता उपक्रम
+हा उपक्रम भाषेचा अडथळा न येता नागरिकांना डिजिटल माध्यमाद्वारे सहजपणे माहिती तयार करता येणे, संवाद साधणे, व्यवहार करणे, प्रक्रिया करणे आणि माहिती मिळवणे सोपे करण्यासाठी एक परिसंस्था देतो.
+श्री एस. कृष्णन
+सचिव (इलेक्ट्रॉनिक्स आणि माहिती तंत्रज्ञान मंत्रालय)
+माहितीच्या प्रवेशाचे लोकशाहीकरण करण्यासाठी इंटरनेटमध्ये परिवर्तनाची क्षमता आहे, तरीही त्याची खरी परिणामकारकता ही त्याच्या बहुभाषिक रुपांतरामध्ये आहे. सार्वत्रिक स्वीकृतीच्या उपक्रम
+... पुढे वाचा
+श्री सुशील पाल
+सहसचिव (इलेक्ट्रॉनिक्स आणि माहिती तंत्रज्ञान मंत्रालय)
+नेटवर्कचे संकलन अशी इंटरनेटची व्याख्या आहे परंतु सार्वत्रिक स्वीकृतीशिवाय नेटवर्क अपूर्ण आहेत. डिजिटल समावेशाला गती देण्यासाठी, एक गोष्ट जी आपण नक्कीच करू शकतो ती म्हणजे लोकांची भा
+... पुढे वाचा
+डॉ. देवेश त्यागी
+सीईओ
+(निक्सी )
+भारताला सर्वांसाठी जास्त सर्वसमावेशक आणि सुलभ इंटरनेटचा समर्थक असण्याचा अभिमान आहे. निक्सी येथे, आम्ही एक सार्वत्रिक स्वीकृत वातावरण जोपासण्यासाठी ठामपणे वचनबद्ध आहोत जेथे प्रत्येक
+... पुढे वाचा
 Previous
 Next
-Internationalized Domain Names (IDN)
-Website address in local language
-(निक्सी.भारत)
-Email Address Internationalization (EAI)
-E-mail ID in local language
-(मेरानाम@निक्सी.भारत)
-Universal Acceptance (UA)
-All web applications, devices should support the local language website name and email address.
-BhashaNet Initiative
-Vision
-Objective
-Mission
-To provide a truly multilingual internet, where local language website name and local language email id, work everywhere seamlessly.
-To connect with users in their own languages. Bhashanet is working towards enabling people from remote locations and different socioeconomic backgrounds to access the multilingual Internet in India.
-Encouraging use of local language website name and
-email id.
-Promoting awareness of local language url and
-email id.
-Developing policies and regulations.
-Supporting technical collaboration.
-Engagement of Website owners, Web-Developer
-Community, Web Security experts.
-Announcements
+आंतरराष्ट्रीयीकृत डोमेन नावे (आयडीएन)
+भारतीय भाषांमध्ये संकेतस्थळ
+(निक्सि.भारत)
+इमेल पत्त्याचे आंतरराष्ट्रीयीकरण (इएआय)
+स्थानिक भाषांमध्ये इमेलेचा पत्ता
+(माझेनाव@निक्सी.भारत)
+सार्वत्रिक मान्यता (यूए)
+महाजालावरील सर्व अनुप्रयोग; उपकरणांनी स्थानिक भाषेच्या संकेलस्थळाचे नाव आणि इमेल पत्त्याला मान्यता दिली पाहिजे.
+भाषानेट उपक्रम
+दृष्टी
+उद्दीष्ट्ये
+भाषानेट मिशन
+खऱ्या अर्थाने बहुभाषिक महाजाल देणे, जेथे संकेतस्थळाचे नाव आणि ईमेल आयडी हे स्थानिक भाषेत वापरले जाऊ शकतात.
+वापरकर्त्यांशी त्यांच्याच भाषेत संपर्क साधणे तसेच दुर्गम भागातील आणि विविध सामाजिक-आर्थिक पार्श्वभूमीच्या लोकांना भारतातील बहुभाषिक अंतरजालाचा वापर करण्यास सक्षम करण्याच्या दिशेने भाषानेट काम करीत आहे.
+स्थानिक भाषेतील संकेतस्थळाचे नाव आणि इमेल आयडी वापरण्यास प्रोत्साहन देणे.
+स्थानिक भाषेत यूआरएल आणि ईमेल आयडीबद्दल जागरूकता वाढविणे..
+धोरणे आणि नियम बनवणे.
+तांत्रिक सहकार्यास करणे.
+संकेतस्थळाचे मालक, संकेतस्थळ बनवणारे गट, संकेतस्थळासाठीच्या सुरक्षतज्ञांचा सहभाग.
+घोषणा
 FICCI
 Empowering Entrepreneurs: Navigating Success with Universal Acceptance and Email Address Internationalization FICCI
 - To be held on 12 April 2024, Jaipur (Rajasthan) India
-Read More
-ICANN
-The Internet Corporation for Assigned Names and Numbers (ICANN) published the 2022 Internationalized Domain Name (IDN) Annual Report. The report provides an
-overview of the status of IDNs at the top and second levels of the Domain Name System (DNS), as well as the IDN-related work being done by the ICANN organization (ICANN org) and community.
-Read More
-Websites In IDN
-Universal Acceptance Websites compliance with Internationalized Domain Names (IDNs) list
-View List
-Gallery
-View Gallery
-Making your website Universal Acceptance ready: Way Forward
-Workshop on Making Your email platform UA Ready
-Curtain Raiser
-Frequently Asked Questions
-How can we register domain names in Indian Languages ?
-Check the availability of your desired domain name: You can check if your desired domain name is available in Indian languages by visiting the website of the National Internet Exchange of India (NIXI) or any accredited registrar that offers Indian language domains.
-Choose a registrar: Once you have identified an available domain name, you need to choose a registrar that offers Indian language domains. NIXI provides a list of accredited registrars on its website that offer Indian language domains.
-Provide the necessary information: You will need to provide your personal and contact information, as well as the desired domain name and the language/script in which it is written. You may also need to provide additional documentation or verification for Indian language domains.
-Complete the registration process: Once you have provided the necessary information, you can complete the registration process through the registrar's website. You may need to pay a registration fee and agree to the terms and conditions of the registrar.
-Configure your domain: Once your domain is registered, you can configure it for use with your website, email, or other online services.
-It's important to note that the availability of domain names in Indian languages may vary depending on the script and language. Additionally, Indian language domains may have specific requirements or restrictions, so it's important to check with the registrar or NIXI for more information.
-How Universal Acceptance can be achieved?
-To achieve universal acceptance, it is important for all stakeholders in the Internet ecosystem, including domain name registries, email service providers, application developers, and others, to adopt and implement technical standards that support non-ASCII domain names and email addresses. Additionally, education and awareness-raising efforts can help promote universal acceptance and ensure that users are aware of the options available to them.
-What are the Universal Acceptance Guidelines?
-The Universal Acceptance (UA) Guidelines are a set of best practices and recommendations for supporting the use of all domain names and email addresses, regardless of their script, language, or format. The guidelines were developed by the Universal Acceptance Steering Group (UASG), a community-led initiative that works to promote Universal Acceptance of all domain names and email addresses.
-The UA Guidelines provide detailed recommendations for software and system developers, domain name registries, email service providers, and other stakeholders involved in the management and implementation of Internet systems and applications. The guidelines cover a wide range of topics related to Universal Acceptance, including:
-- Domain name registration and administration
-- Email address validation and handling
-- IDN implementation and support
-- Web and application development
-- Testing and validation
-- User education and awareness
-How can we get Email ID in Indian Languages?
-To get an email ID in Indian languages, you can follow these steps:
-Choose an email service provider: There are several email service providers that offer support for email IDs in Indian languages, such as Google, Microsoft, and Rediffmail. You can choose an email service provider that offers support for your preferred Indian language.
-Check the availability of your desired email ID: Once you have chosen an email service provider, you can check if your desired email ID is available in Indian languages. You may need to check the provider's website or contact their support team for more information.
-Create a new email account: If your desired email ID is available, you can create a new email account with your chosen email service provider. You will need to provide your personal and contact information, as well as choose your desired email ID and language.
-Configure your email settings: Once your email account is created, you can configure your email settings to suit your preferences, such as setting up filters, forwarding, or other email management options.
-Start using your email ID: Once your email account is set up and configured, you can start using your email ID in Indian languages for sending and receiving emails.
-It's important to note that not all email service providers offer support for email IDs in Indian languages, and the availability of languages may vary depending on the provider. Additionally, some Indian languages may have specific requirements or restrictions, so it's important to check with the email service provider for more information.
-Help Desk
-For Registering Domain Names Under सरकार.भारत (or equivalent)
-Toll Free Number :
-1800111555, 011-24305000
-Website :https://servicedesk.nic.in
-For Registering Domain Names Under .भारत (or equivalent )
-Contact : +91-11-48202040, +91-11-48202011, +91-11-48202002
-Email : uasupport@nixi.in, rishab@nixi.in, rajiv@nixi.in, support@bhashanet.in
-Shri S. Krishnan
-Secretary (Ministry of Electronics and Information Technology)
-Internet has transformative potential in democratizing access to information, yet its true efficacy lies in its multilingual adaptation. By championing the Universal Acceptance initiative, India stands as a shining beacon of diversity, embodying the essence of universal acceptance and inclusivity.
-Shri Sushil Pal
-Joint Secretary (Ministry of Electronics and Information Technology)
-Collection of networks defines the internet but networks are incomplete without the Universal Acceptance. For accelerating digital inclusion, the one thing that we can do certainly is to use the language of the people to connect them to the Internet.
-Dr. Devesh Tyagi
-CEO ( NIXI )
-India is proud to champion a more inclusive and accessible internet for all. At NIXI, we are firmly committed to fostering a universal acceptance environment where everyone can access information and participate online in their preferred language.
+पुढे वाचा
+आयसीएएनएन
+इंटरनेट कॉर्पोरेशन फॉर असाइन्ड नेम्स अँड नंबर्सने (आयसीएएनएन) २०२२ आंतरराष्ट्रीयीकृत डोमेन नावांचा (आयडीएन) वार्षिक अहवाल प्रकाशित केला. हा अहवाल डोमेन नेम सिस्टमच्या (डीएनएस)
+शीर्ष आणि द्वितीय स्तरावरील आयडीएनच्या स्थितीचे तसेच आयसीएएनएन संस्था (आयसीएएनएन ऑर्ग.) आणि समुदायाकडून केल्या जाणाऱ्या आयसीएनशी संबंधित कार्याचा आढावा उपलब्ध करून देतो.
+पुढे वाचा
+आयडीएन संकेतस्थळे
+आंतरराष्ट्रीयीकृत डोमेन नावांचे (आयडीएन) अनुपालन करणाऱ्या सार्वत्रिक मान्यता असलेल्या संकेतस्थळांची यादी
+सूची पहा
+गॅलरी
+गॅलरी पहा
+सार्वत्रिक मान्यतेसाठी तुमचे संकेतस्थळ तयार करणे : पुढे काय
+तुमच्या ईमेल मंचाला यूए बनविणे यावर कार्यशाळा
+पुनरावलोकन
+विचारले जाणारे प्रश्न
+आम्ही भारतीय भाषांमध्ये डोमेन नाव कसे नोंदवू शकतो?
+इच्छित डोमेन नावाची उपलब्धता तपासा: तुम्ही राष्ट्रीय इंटरनेट एक्सचेंज ऑफ इंडिया (निक्सी) च्या संकेतस्थळावर किंवा भारतीय भाषा डोमेन देणाऱ्या कोणत्याही मान्यताप्राप्त रजिस्ट्रारला भेट देऊन आपले इच्छित डोमेन नाव भारतीय भाषांमध्ये उपलब्ध आहे की नाही हे तपासू शकता.
+रजिस्ट्रार निवडा:  एकदा उपलब्ध डोमेन नाव ओळखल्यानंतर, तुम्हाला भारतीय भाषा डोमेन देणारे रजिस्ट्रार निवडणे आवश्यक आहे. निक्सीच्या संकेतस्थळावर मान्यताप्राप्त निबंधकांची यादी आहे जे भारतीय भाषा डोमेन देऊ करतात.
+आवश्यक माहिती पुरवा:  आपली वैयक्तिक आणि संपर्क माहिती, तसेच इच्छित डोमेन नाव आणि ते लिहिण्याची भाषा / लिपी
+इत्यादी देणे आवश्यक आहे. तुम्हाला भारतीय भाषा डोमेनसाठी अतिरिक्त दस्तऐवज द्यावा लागू शकतो किंवा काही गोष्टींची पडताळी करावी लागू शकते.
+नोंदणी प्रक्रिया पूर्ण करा:
+आवश्यक माहिती पुरवल्यावर, तुम्ही रजिस्ट्रारच्या संकेतस्थळावर नोंदणीची प्रक्रिया पूर्ण करू शकता. तुम्हाला नोंदणी शुल्क भरावे लागेल आणि निबंधकाच्या अटी आणि शर्ती मान्य कराव्या लागतील.
+आपले डोमेन कॉन्फिगर:  एकदा तुमचे डोमेन नोंदणीकृत झाले की तुम्ही ते आपल्या संकेतस्थळावर, इमेल किंवा इतर ऑनलाइन सेवांसह वापरण्यासाठी कॉन्फिगर करू शकता.
+हे लक्षात घ्या की भारतीय भाषांमध्ये डोमेन नावांची उपलब्धता लिपी आणि भाषेनुसार बदलू शकते. याव्यतिरिक्त, भारतीय भाषा डोमेनमध्ये विशिष्ट आवश्यकता किंवा निर्बंध असू शकतात, म्हणून अधिक माहितीसाठी रजिस्ट्रार किंवा निक्सीशी आधी बोळणी करणे महत्वाचे आहे.
+सार्वत्रिक मान्यता कशी मिळवली जाऊ शकते?
+सार्वत्रिक मान्यता मिळवण्यासाठी, डोमेन नाव नोंदणी, इमेल सेवा पुरवणारे, अनुप्रयोग विकासक आणि इतरांसह इंटरनेट इकोसिस्टममधील सर्व भागधारकांना निक्सीत नसलेली डोमेन नावे आणि इमेल पत्त्यांचे समर्थन करणारी तांत्रिक मानके स्वीकारणे आणि ती अंमलात आणणे महत्वाचे आहे. याव्यतिरिक्त, शिक्षण आणि जागरूकता वाढविण्याचे प्रयत्न सार्वत्रिक मान्यतेस प्रोत्साहित करण्यात मदत करू शकतात आणि वापरकर्ते त्यांच्याकडे असलेल्या पर्यायांबद्दल जागरूक आहेत याची खात्री करतात.
+सार्वत्रिक मान्यतेची मार्गदर्शक तत्त्वे काय आहेत?
+सार्वत्रिक मान्यतेची (युनिव्हर्सल एक्सेप्टन्स (यूए)) मार्गदर्शक तत्त्वे म्हणजे
+कोणतीही लिपी , भाषा किंवा स्वरूपाची पर्वा न करता सर्व डोमेन नावे आणि इमेल पत्त्यांच्या वापरास समर्थन देण्यासाठी सर्वोत्तम पद्धती आणि शिफारसींचा एक संच आहे. ही मार्गदर्शक तत्त्वे युनिव्हर्सल एक्सेप्टन्स स्टीअरिंग ग्रुप (यूएएसजी) या समुदाय-नेतृत्वाखालील उपक्रमाने विकसित केली आहेत, जी सर्व डोमेन नावे आणि ईमेल पत्त्यांच्या सार्वत्रिक मान्यतेस प्रोत्साहन देण्यासाठी काम करते.
+यूए मार्गदर्शक तत्त्वे सॉफ्टवेअर आणि सिस्टम डेव्हलपर्स, डोमेन नाव नोंदणी, इमेल सेवा पुरवणारे आणि महाजाल सिस्टम आणि अनुप्रयोगांच्या व्यवस्थापन आणि अंमलबजावणीत गुंतलेल्या इतर भागधारकांसाठी तपशीलवार शिफारसी करतात, मार्गदर्शक तत्त्वांमध्ये सार्वत्रिक मान्यतेशी निगडीत विविध विषयांचा समावेश आहे, ज्यातील काही खाली नोंदवल्या आहेत
+- डोमेन नाव नोंदणी आणि व्यवस्था
+- इमेल पत्ता वैधता आणि हाताळणी
+- आयडीएन अंमलबजावणी आणि समर्थन
+- वेब आणि अनुप्रयोग विकास
+- चाचणी आणि प्रमाणीकरण
+- वापरकर्ता शिक्षण आणि जागरूकता
+आम्ही भारतीय भाषांमध्ये ईमेल आयडी कसे मिळवू शकतो?
+भारतीय भाषांमध्ये इमेल आयडी मिळविण्यासाठी आपण खालील गोष्टी करू शकता:
+इमेल सेवा प्रदाता निवडा:   गुगल, मायक्रोसॉफ्ट आणि रेडिफमेलसारख्या भारतीय भाषांमध्ये इमेल पत्त्यांचा पुरस्कार करणारे अनेक इमेल सेवा पुरवणारे आहेत. आपण एक इमेल सेवा पुरवणाऱ्याला निवडू शकता जो आपल्या पसंतीच्या भारतीय भाषचा पुरस्कार करतो.
+इच्छित इमेल आयडीची उपलब्धता तपासा:  एकदा आपण इमेल सेवा पुरवणाऱ्याला निवडल्यानंतर, इच्छित इमेल आयडी भारतीय भाषांमध्ये उपलब्ध आहे की नाही हे तपासू शकता. आपल्याला सेवा पुरवणाऱ्याचे संकेतस्थळ तपासण्याची किंवा अधिक माहितीसाठी त्यांच्या मदत कार्यसंघाशी संपर्क करण्याची गरज भासू शकते.
+नवीन इमेल खाते तयार करा:  जर इच्छित इमेल पत्ता उपलब्ध असेल तर निवडलेल्या इमेल सेवा पुरवणाऱ्याकडे नवीन इमेल खाते तयार करू शकता. ह्याकरता तुमची वैयक्तिक आणि संपर्क माहिती देणे आवश्यक आहे, त्याचबरोबर तुमचा इच्छित इमेल आयडी आणि भाषासुद्धा निवडा.
+तुमच्या इमेल सेटिंग्ज कॉन्फिगर करा:  एकदा आपले इमेल खाते तयार झाले की, आपण फिल्टर सेट करणे, फॉरवर्ड करणे किंवा इतर इमेल व्यवस्थापन पर्याय यासारख्या आपल्या प्राधान्यांनुसार तुमच्या इमेल सेटिंग्ज कॉन्फिगर करू शकता.
+तुमचा इमेल आयडी वापरण्यास सुरू करा:  एकदा आपले इमेल खाते सेट आणि कॉन्फिगर केले की, आपण इमेल पाठविण्यासाठी आणि मिळवण्यासाठी भारतीय भाषांमध्ये आपला इमेल आयडी वापरण्यास सुरवात करू शकता.
+हे लक्षात घेणे महत्वाचे आहे की सर्व इमेल सेवा पुरवणारे भारतीय भाषांमध्ये इमेल पत्त्यांचा पुरस्कार करत नाही आणि पुरवणाऱ्यानुसार भाषांची उपलब्धता बदलू शकते. याव्यतिरिक्त, काही भारतीय भाषांमध्ये विशिष्ट आवश्यकता किंवा निर्बंध असू शकतात, म्हणून अधिक माहितीसाठी इमेल सेवा पुरवणाऱ्याला संपर्क साधणे महत्वाचे आहे.
+मदतीसाठी क्रमांक वा इमेलचा पत्ता
+सरकार.भारत (किंवा ह्यासारख्या) ह्यात डोमेन नावांची नोंदणी करण्यासाठी
+टोल फ्री क्रमांक :
+१८००१११५५५ , ०११-२४३०५०००
+संकेतस्थळ :https://servicedesk.nic.in
+.भारत (किंवा ह्यासारख्या) ह्यात डोमेन नावांची नोंदणी करण्यासाठी
+संपर्क : +९९-११-४८२०२०४०, +९१-११-४८२०२०११, फोन: +९१-११-४८२०२००२
+ईमेल : uasupport@nixi.in, rishab@nixi.in, rajiv@nixi.in, support@bhashanet.in
+श्री एस. कृष्णन
+सचिव (इलेक्ट्रॉनिक्स आणि माहिती तंत्रज्ञान मंत्रालय)
+माहितीच्या प्रवेशाचे लोकशाहीकरण करण्यासाठी इंटरनेटमध्ये परिवर्तनाची क्षमता आहे, तरीही त्याची खरी परिणामकारकता ही त्याच्या बहुभाषिक रुपांतरामध्ये आहे. सार्वत्रिक स्वीकृतीच्या उपक्रमाचे नेतृत्व घेऊन भारत हा विविधतेचा एक चमचमता दीपस्तंभ म्हणून उभा आहे, जो सार्वत्रिक स्वीकृती आणि सर्वसमावेशकतेचे सार मूर्त रूपांमध्ये दृष्टीस पजतो.
+श्री सुशील पाल
+सहसचिव (इलेक्ट्रॉनिक्स आणि माहिती तंत्रज्ञान मंत्रालय)
+नेटवर्कचे संकलन अशी इंटरनेटची व्याख्या आहे परंतु सार्वत्रिक स्वीकृतीशिवाय नेटवर्क अपूर्ण आहेत. डिजिटल समावेशाला गती देण्यासाठी, एक गोष्ट जी आपण नक्कीच करू शकतो ती म्हणजे लोकांची भाषा वापरून त्यांना इंटरनेटशी जोडणे.
+डॉ. देवेश त्यागी
+सीईओ
+(निक्सी )
+भारताला सर्वांसाठी जास्त सर्वसमावेशक आणि सुलभ इंटरनेटचा समर्थक असण्याचा अभिमान आहे. निक्सी येथे, आम्ही एक सार्वत्रिक स्वीकृत वातावरण जोपासण्यासाठी ठामपणे वचनबद्ध आहोत जेथे प्रत्येकजण माहिती मिळवू शकतो आणि त्यांच्या आवडत्या भाषेत ऑनलाइन सहभागी होऊ शकतो
 Pre-Global UA Day event
 27th March, 2023 (FICCI Auditorium)
 Technical Session
@@ -254,25 +256,25 @@ Vote of Thanks by Shri Anil Kumar Jain, CEO, NIXI
 High Tea
 UA Day-2024
 Visit website for UA Day-2024 registration
-Useful Links
+उपयुक्त दुवे
 registry.in
 registry.gov.in
 coednssecurity.in
 mailindia.in
 unicode.org
 iana.org
-registrars list
-Other Links
-Home
-FAQs
-Blogs
-Gallery
-Privacy Policy
-Terms & Conditions
-Dashboard
-Contact us
-National Internet Exchange of India (NIXI) 9th Floor, B-Wing, Statesman House,148, Barakhamba Road, New Delhi 110001
-Email: uasupport[at]nixi[dot]in
-Phone: +91-11-48202000
-Go to Top
-Contents on website are under continuous updation. 2024 © Copyright NIXI All rights reserved.
+नोंदणी करा
+इतर दुवे
+मुख्यपान
+विचारले जाणारे प्रश्न
+ब्लॉग
+गॅलरी
+गोपनीयतेचे धोरण
+नियम व अटी
+डॅशबोर्ड
+संपर्क करा
+नॅशनल इंटरनेट एक्स्चेंज ऑफ इंडिया (निक्सी) ९ वा मजला, बी-विंग, स्टेट्समन हाऊस-१४८, बाराखंबा रोड, नवी दिल्ली 110001
+ईमेल: uasupport[at]nixi[dot]in
+फोन: +९१-११-४८२०२०००
+शीर्षस्थानी जा
+संकेतस्थळावरील सामग्री सतत अद्ययावत केली जात आहे. २०२४ © प्रताधिकार एनआयएक्सआय सर्व हक्क राखीव.

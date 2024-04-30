@@ -38,7 +38,7 @@ def check_all_services(url):
     except Exception as e:
         logs(f"Exception Occured {e}--- Fetching Domain {url} instance from Database based on URL provided")
         print("Error occured...")
-        
+
     try:
         logs(f"Checking that Fetched Domain {url} is running or not by request.get method")
         instance = get_object_or_404(URL_dashboard, IDN_domain=url)  
@@ -46,7 +46,7 @@ def check_all_services(url):
         print("Response : ", response)
         if response.status_code == 200:
             logs(f"{url} Domain Status is 200 IT is running")
-            instance.idn_domain_running_status = True
+            instance.idn_domain_running_status = True 
             logs(f"{url} Domain Status has been updated to true") 
    
     except requests.ConnectionError as e:
@@ -68,14 +68,14 @@ def check_all_services(url):
             logs(f"{url} SSL Status has been updated to true") 
         else:
             logs(f"Domain {url} for SSL check is not running") 
-            instance.ssl_configuration_status = 'Failed to fetch URL' 
+            instance.ssl_configuration_status = 'Failed to fetch URL'
             logs(f"{url} SSL Status has been updated to Failed to fetch URL")                   
     except requests.ConnectionError as e:
             logs(f"Connection Error occured {e}--- Fetching SSL for {url} ") 
-            instance.ssl_configuration_status = 'Connection Error'
+            instance.ssl_configuration_status = 'Connection Error' 
             logs(f"SSL Status has been updated to Connection Error")
     except ssl.SSLError:
-            instance.ssl_configuration_status = 'SSL Error'
+            instance.ssl_configuration_status = 'SSL Error'  
             logs(f"SSL Status has been updated to SSL Error")
 
     
@@ -122,19 +122,24 @@ def check_all_services(url):
                     instance.content_language = 'English'
                     logs(f"language content language is set ")
                 else:
-                    instance.content_language = lang_received 
+                    instance.content_language = lang_received      
                     logs(f"language content language is set to other than english ")
                 
             except requests.ConnectionError as e:
-                instance.content_language = 'Language Service API Error'
+                instance.content_language = 'Language Service API Error'   
                 logs(f"language content language is set to other than english ")
         else:
-            instance.content_language = 'Failed to Fetch URL'
+            instance.content_language = 'Failed to Fetch URL'    
             logs(f"language content language is not set because of Failed to Fetch URL")
     except requests.ConnectionError as e:
             instance.content_language = 'Connection Error'
             logs(f"language content language is not set because of Connection Error")
-    instance.save() 
+
+
+    # Save the instance to persist the changes
+    logs(f"Parameters have been updated and instance has been saved ")
+    instance.save()
+   
 
 def check_and_update(url):
     logs(f"++++================================={url}==========================================++++")
@@ -150,9 +155,8 @@ def check_and_update(url):
     
     check_all_services(url)
     
-    # Save the instance to persist the changes
-    logs(f"Parameters have been updated and instance has been saved ")
-    instance.save()  
+  
+    
 
 
 def check_all_idn_domains():    
