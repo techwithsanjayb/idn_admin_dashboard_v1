@@ -13,11 +13,11 @@ from idn_admin_dashboard.logger import log, logs
 def check_protocol(url):
     print("Inside check protocol-------")
     if url.__contains__("https" or "http"):
-        print("If contains https")
+        print(f"If {url} contains https")
         #logs(f"{url} contain https or http ")
         updated_url =  url
     else:
-        print("If does not contains https")
+        print(f"If {url} does not contains https")
         # logs(f" Adding https or http in {url} ")
         updated_url = "https://" + url
         # logs(f"returning Updated url")
@@ -31,7 +31,14 @@ def create_text_file(filename, content):
 def check_all_services(url):
     timeout_seconds = 10  # Set the timeout period to 10 seconds
     # CHECK IF DOMAIN IS FUNCTIONAL OR NOT 
-
+    try:
+        logs(f"Fetching Domain instance from Databse based on URL provided {url} ")
+        instance = get_object_or_404(URL_dashboard, IDN_domain=url)
+        print("Instance Found : ",instance)
+    except Exception as e:
+        logs(f"Exception Occured {e}--- Fetching Domain {url} instance from Database based on URL provided")
+        print("Error occured...")
+        
     try:
         logs(f"Checking that Fetched Domain {url} is running or not by request.get method")
         instance = get_object_or_404(URL_dashboard, IDN_domain=url)  
@@ -40,7 +47,6 @@ def check_all_services(url):
         if response.status_code == 200:
             logs(f"{url} Domain Status is 200 IT is running")
             instance.idn_domain_running_status = True
-            instance.save()
             logs(f"{url} Domain Status has been updated to true") 
    
     except requests.ConnectionError as e:
@@ -128,6 +134,7 @@ def check_all_services(url):
     except requests.ConnectionError as e:
             instance.content_language = 'Connection Error'
             logs(f"language content language is not set because of Connection Error")
+    instance.save() 
 
 def check_and_update(url):
     logs(f"++++================================={url}==========================================++++")

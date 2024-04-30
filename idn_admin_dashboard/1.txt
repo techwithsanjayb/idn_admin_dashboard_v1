@@ -1,8 +1,8 @@
-भाशानैट्ट: बहुभाशी इंटरनैट्ट सशक्तिकरण
-मुक्ख समग्गरी उप्पर चली जाओ
-सहायता
-फीडबैक
-Dogri-डोगरी
+Bhashanet : Empowering Multilingual Internet
+Skip to main Content
+Assistance
+Feedback
+Select languages
 English
 Hindi-हिंदी
 Assamese-অসমীয়া
@@ -26,139 +26,120 @@ Sindhi-सिंधी
 Tamil-தமிழ்
 Telugu-తెలుగు
 Urdu- اردو
-जाओ
-होम
-दे बारै
-यूए इंडिया प्रोग्राम
-.भारत आईडीऐन्न सीसीटीऐल्लडीऐस्स
-संसाधन
-उपकरण
-यूए ते बहुभाशी इंटरनैट्ट रिपोर्ट
-यूए दस्तावेज
-बेहतरीन प्रथां
-यूए नमूना कोड
-कार्यक्रम
-यूए लेई त्यार होई जाओ
-आईडीऐन्न वैबसाइटां
-तकनीकी कोने
-भाशानैट्ट
-इक बहुभाशी इंटरनैट्ट ते यूनिवर्सल अक्सैप्टैंस पैह्‌ल
-एह् शैह्‌री गी भाशा दी रकाबटा दे बगैर डिजिटल माध्यम च जानकारी गी
-असानी कन्नै बनाने, संचार करने, लैन-देन करने, प्रक्रिया करने
-ते हासल करने च समर्थ बनाने लेई इक ईको सिस्टम उपलब्ध
-करांदा ऐ।
-श्री ऐस्स कृष्णन
-सैकटरी (इलैक्ट्रानिक्स ते सूचना प्रौद्योगिकी मंत्रालय)
-इंटरनैट्ट च सूचना तक्कररसाई गी लोकतांत्रिक बनाने दी परिवर्तनकारी समर्थऐ, फ्ही बी इसदीस्हेईकार गिरीइसदे बहुभाशीरूपांतरणच ऐ ।यूनिवर्सल अक्सैप्टैंस दीपैह्‌लकदमीदा समर्थन करियै, भारत व
-... होर पढ़ो
-श्री सुशील पाल
-संयुक्त सैकटरी (इलैक्ट्रानिक्स ते सूचना प्रौद्योगिकी मंत्रालय)
-नैट्टवर्केंदा मजमूआ इंटरनैट्टऐ परयूनिवर्सल अक्सैप्टैंसदे बगैर नैट्टवर्क द्हूरे न। डिजिटल शमूलियतच तेजी आह्‌ननेआस्तै, इक चीज जेह्‌ड़ी असयकीनी तौरा पर करी सकने आंओह् ऐ लोकें गी इंटरन
-... होर पढ़ो
-डा. देवेश त्यागी जी
-सीईओ (निक्सी )
+Go
+Home
+About
+UA India Programme
+.bharat IDN-ccTLDs
+Resources
+Tools
+UA & Multilingual Internet Report
+UA Documents
+Best Practices
+UA Sample Code
+Events
+Become UA Ready
+IDN Websites
+Technical Corner
+BhashaNet
+A Multilingual Internet and Universal Acceptance Initiative
+Provides an eco system to enable citizen to easily create, communicate, transact, process and retrieve information with ease in digital medium without language barrier.
+Shri S. Krishnan
+Secretary (Ministry of Electronics and Information Technology)
+Internet has transformative potential in democratizing access to information, yet its true efficacy lies in its multilingual adaptation. By championing the Universal Acceptance ini
+... Read More
+Shri Sushil Pal
+Joint Secretary (Ministry of Electronics and Information Technology)
+Collection of networks defines the internet but networks are incomplete without the Universal Acceptance. For accelerating digital inclusion, the one thing that we can do certainly
+... Read More
+Dr. Devesh Tyagi
+CEO ( NIXI )
 India is proud to champion a more inclusive and accessible internet for all. At NIXI, we are firmly committed to fostering a universal acceptance environment where everyone can acc
-... होर पढ़ो
+... Read More
 Previous
 Next
-अंतर्राश्ट्री डोमेन नेम्स (आईडीऐन्न)
-वैबसाइट दा पता स्थानी
-भाशा च
+Internationalized Domain Names (IDN)
+Website address in local language
 (निक्सी.भारत)
-ईमेल अड्रैस्स इंटरनैशनलाइजेशन (ईएआई)
-स्थानी भाशा च ई-मेल आईडी
-(मेरानांऽ@निक्सी.भारत)
-यूनिवर्सल अक्सैप्टैंस (यूए)
-सभनें वैब ऐप्लीकेशनें, डिवाइसें स्थानी भाशा दी वैबसाइट दे नांऽ ते ईमेल पते दा समर्थन करना चाहिदा ऐ
-भाशानैट्ट पैह्‌ल
-दूरद्रिश्टी
-उद्देश
-मिशन
-इक स्हेई मैह्‌नें च बहुभाशी इंटरनैट्ट उपलब्ध करोआना, जित्थै स्थानी भाशा दी वैबसाइट
-दा नांऽ ते स्थानी भाशा ईमेल आईडी, हर थाह्‌र
-बिजन रकाबटा दे कम्म करदे न।
-बरतूनियें कन्नै उं'दी अपनी भाशा च जुड़ने लेई। भाशनैट्ट दूर-दरेडे
-थाह्‌रें ते बक्ख-बक्ख सामाजिक-आर्थिक पछौकड़ें दे लोकें गी
-भारत च बहुभाशी इंटरनैट्ट दा इस्तेमाल करने च समर्थ बनाने दी
-दिशा च कम्म करा करदा ऐ।
-स्थानी भाशा वैबसाइट दे नांऽ ते ईमेल आईडी दे इस्तेमाल गी बढ़ावा देआ करदा ऐ।
-स्थानी भाशा यूआरऐल्ल ते ईमेल आईडी दी जागरूकता गी बढ़ावा देआ करदा ऐ।
-नीतियां ते नियम त्यार करा करदा ऐ।
-तकनीकी सैहयोग दा समर्थन करा करदा ऐ।
-वैबसाइट दे मालकें, वैब-डेवलपर समुदाय, वैब सुरक्षा विशेशज्ञें दी भागीदारी।
-घोशनां
+Email Address Internationalization (EAI)
+E-mail ID in local language
+(मेरानाम@निक्सी.भारत)
+Universal Acceptance (UA)
+All web applications, devices should support the local language website name and email address.
+BhashaNet Initiative
+Vision
+Objective
+Mission
+To provide a truly multilingual internet, where local language website name and local language email id, work everywhere seamlessly.
+To connect with users in their own languages. Bhashanet is working towards enabling people from remote locations and different socioeconomic backgrounds to access the multilingual Internet in India.
+Encouraging use of local language website name and
+email id.
+Promoting awareness of local language url and
+email id.
+Developing policies and regulations.
+Supporting technical collaboration.
+Engagement of Website owners, Web-Developer
+Community, Web Security experts.
+Announcements
 FICCI
 Empowering Entrepreneurs: Navigating Success with Universal Acceptance and Email Address Internationalization FICCI
 - To be held on 12 April 2024, Jaipur (Rajasthan) India
-होर पढ़ो
-यूनिवर्सल अक्सैप्टैंस (यूए) ध्याड़ा
-यूनिवर्सल अक्सैप्टैंस (यूए) ध्याड़ा दुनिया भरै च मकामी, प्रादेशिक, ते
-विश्वी समुदायें ते संगठनें गी कट्ठा करने दा मौका ऐ तां जे
-आम यूए जागरूकता फलाने ते मुक्ख हितधारकें आह्‌ले यूए गी
-अपनाने गी बढ़ावा दित्ता जाई सकै।
-होर पढ़ो
-आईसीएऐन्नऐन्न
-इंटरनैट्ट कार्पोरेशन फार असाइंड नेम्स ऐंड नंबर (आईसीएऐन्नऐन्न) ने 2022 दी इंटरनैशनलाइज्ड डोमेन नेम (आईडीऐन्न) दी सालाना
-रिपोर्ट प्रकाशत कीती। रिपोर्ट च डोमेन नेम सिस्टम (डीऐन्नऐस्स) दे
-शीर्श ते दुए स्तरें उप्पर दे आईडीऐन्न दी स्थिति दा अवलोकन दित्ता
-गेदा ऐ, ते कन्नै गै आईसीएऐन्नऐन्न संगठन (आईसीएऐन्नऐन्न आर्ग) ते समुदाय द्वारा कीते जा करदे आईडीऐन्न कन्नै सरबंधत कम्म बी दित्ता गेदा ऐ।
-होर पढ़ो
-आईडीऐन्न च वैबसाइटां
-यूनिवर्सल अक्सैप्टैंस वैबसाइटां
-इंटरनैशनलाइज्ड डोमेन नेम्स (आईडीऐन्न)लिस्टा दा अनुपालन करदियां न
-द्रिश्श सूची
-गैलरी
-गैलरी दिक्खो
-अपनी वैबसाइटा गी यूनिवर्सल अक्सैप्टैंस आस्तै त्यार करा दे ओ: अग्गें दा रस्ता
-अपने ईमेल प्लेटफार्म गी यूए आस्तै त्यार करने उप्पर वर्कशाप
-शुभ रंभ
-अक्सर पुच्छे जाने आह्‌ले सोआल
-अस भारती भाशाएं च ईमेल आईडी कि’यांहासल करी सकने आं?
-भारती भाशाएं च ईमेल आईडी हासल करने लेई तुस इ'नें चरणें दा पालन करी सकदे ओ:
-ईमेल सेवा प्रदाता चुनो:केईं ईमेल सेवा प्रदाता न जेह्‌ड़े भारती भाशाएं च ईमेल आईडी आस्तै समर्थन प्रदान करदे न, जि’यां गूगल, माइक्रोसाफ्ट, ते रेडिफमेल। तुस इक ईमेल सेवा प्रदाता चुनी सकदे ओ जेह्‌ड़ा तुं'दी पसंदीदा भारती भाशा आस्तै समर्थन प्रदान करदा ऐ।
-अपनी मनचाही ईमेल आईडी दी उपलब्धता दी जांच करो:
-इक बारी जेकर तुस कोई ईमेल सेवा प्रदाता चुनी लैंदे ओ तां तुस चैक्क करी सकदे ओ जे तुं'दी मनचाही ईमेल आईडी भारती भाशाएं च उपलब्ध है जां नेईं। तुसें होर मती जानकारी आस्तै प्रदाता दी वैबसाइट जां उं'दी समर्थन टीम कन्नै संपर्क करने दी लोड़ होग।
-नमां ईमेल खाता बनाओ: जेकर तुं'दी मनचाही ईमेल आईडी उपलब्ध है तां तुस अपने चुने गेदे ईमेल सेवा प्रदाता कन्नै इक नमां ईमेल खाता बनाई सकदे ओ। तुसें अपनी निजी ते संपर्क दी जानकारी देने दे कन्नै-कन्नै अपनी मनचाही ईमेल आईडी ते भाशा चुनने दी लोड़ होग।
-अपनी ईमेल सैट्टिंगें गी कंफिगर करो: इक बारी जेकर तुं'दा ईमेल खाता बनाई लैता जंदा ऐ तां तुस अपनी ई-मेल सैट्टिंगें गी अपनी पसंद दे मताबक कंफिगर करी सकदे ओ, जि’यां के फ़िल्टर, फारवर्डिंग, जां होर ईमेल प्रबंधन विकल्प सैट्ट करना।
-अपनी ईमेल आईडी दा इस्तेमाल शुरू करो: इक बारी जेकर तुंदा ईमेल खाता सैट्ट-अप ते कंफिगर होई जंदा ऐ तां तुस ईमेल भेजने ते हासल करने लेई भारती भाशाएं च अपनी ईमेल आईडी दा इस्तेमाल शुरू करी सकदे ओ।
-इस गल्ला दा ध्यान रक्खना जरूरी ऐ जे सारे ईमेल सेवा प्रदाता भारती भाशाएं च ईमेल आईडी आस्तै समर्थन नेईं करदे हैन, ते भाशाएं दी उपलब्धता प्रदाता दे अधार उप्पर बक्ख-बक्ख होई सकदी ऐ। इसदे अलावा, किश भारती भाशाएं च खास शर्तां जां बंदशां बी होई सकदियां न, इसलेई होर मती जानकारी आस्तै ईमेल सेवा प्रदाता कन्नै कन्नै चैक्क करना जरूरी ऐ।
-यूनिवर्सल अक्सैप्टैंस दे दिशा-निर्देश केह् न?
-यूनिवर्सल अक्सैप्टैंस (यूए) दिशा-निर्देश सभनें डोमेन नाएं ते ईमेल पते दे इस्तेमाल दा समर्थन करने लेई बेहतरीन प्रथाएं ते सफारशें दा
-इक सैट्ट ऐ, उं'दी लिपि, भाशा जां प्रारूप भामें किश बी होऐ। दिशा-निर्देश यूनिवर्सल अक्सैप्टैंस स्टीयरिंग ग्रुप(यूएऐस्सजी) द्वारा त्यार कीते गे हे।, इक समुदाय दी अगोआई आह्‌ली पैह्‌ल जेह्‌ड़ी सभनें डोमेन नाएं ते ईमेल पते दी यूनिवर्सल अक्सैप्टैंस गी बढ़ावा देने लेई कम्म करदी ऐ।
-यूए दे दिशा-निर्देशें च साफ्टवेयर ते सिस्टम डेवलपरें, डोमेन नांऽ रजिस्ट्री, ईमेल सेवा प्रदाताएं, ते इंटरनैट्ट सिस्टमें ते ऐप्लीकेशनें दे प्रबंधन ते लागू करने च शामल होर हितधारकें लेई विस्तृत सफारशें दी जानकारी दित्ती गेदी ऐ। दिशा-निर्देशें च यूनिवर्सल अक्सैप्टैंस कन्नै सरबंधत बक्ख-बक्ख विशे शामल न, जिं'दे च:
-- डोमेन नांऽ पंजीकरण ते प्रशासन
-- ईमेल पता तस्दीकीकरण ते हैंडलिंग
-- आईडीऐन्न लागू करना ते समर्थन
-- वैब ते ऐप्लीकेशन विकास
-- टैस्टिंग ते तस्दीकीकरण
-- बरतूनी दी शिक्षा ते जागरूकता।
-यूनिवर्सल अक्सैप्टैंस कि'यां हासल कीती जाई सकदी ऐ?
-यूनिवर्सल अक्सैप्टैंस हासल करने लेई,
-डोमेन नांऽ रजिस्ट्री, ईमेल सेवा प्रदाता, ऐप्लीकेशन डेवलपर, ते होर दुएं समेत इंटरनैट्ट ईको सिस्टमै च सभनें हितधारकें लेई गैर-एऐस्ससीआईआई डोमेन नाएं ते ईमेल पतें दा समर्थन करने आह्‌ले तकनीकी मानकें गी अपनाना ते लागू करना जरूरी ऐ। इसदे अलावा, यूनिवर्सल अक्सैप्टैंस गी बढ़ावा देने च ते बरतूनी उं'दे कोल उपलब्ध विकल्पें दे बारै जागरूक न, एह् यकीनी बनाने च शिक्षा ते जागरूकता पैदा करने दे प्रयास मदद करी सकदे न ।
-अस भारती भाशाएं च डोमेन नाएं गी कि'यां रजिस्टर करी सकने आं ?
-अपने मनचाहे डोमेन नांऽ दी उपलब्धता दी जांच करो: तुस भारती भाशा डोमेन दी पेशकश करने आह्‌ले कुसै बी मानता प्राप्त रजिस्ट्रार दी वैबसाइट पर जाइयै दिक्खी सकदे ओ जे तुं'दा मनचाहेआ डोमेन नांऽ भारती भाशाएं च उपलब्ध है जां नेईं।
-रजिस्ट्रार चुनो: जिसलै तुस इक बारी इक उपलब्ध डोमेन नांऽ दी शनाखत करी लैंदे ओ तां तुसें इक रजिस्ट्रार चुनना होग जेह्‌ड़ा भारती भाशा डोमेनें दी पेशकश करदा ऐ। ऐन्नआईऐक्सआई अपनी वैबसाइट उप्पर मानता प्राप्त रजिस्ट्रारें दी चंदी दिंदी ऐ जेह्‌ड़े भारती भाशा डोमेन दी पेशकश करदे न।
-जरूरी जानकारी देओ: तुसें अपनी निजी ते राबते दी जानकारी दे कन्नै-कन्नै बांछत डोमेन नांऽ ते जिस भाशा/लिपि च एह्‌ लिखेआ गेदा ऐ, ओह् बी देना होग। तुसें भारती भाशा डोमेन आस्तै बाद्धू दस्तावेजीकरण जां तस्दीक बी उपलब्ध करोआने दी लोड़ होग।
-रजिस्ट्रेशन प्रक्रिया गी पूरा करो:  इक बारी जिसलै तुस जरूरी जानकारी देई लैंदे ओ तां तुस रजिस्ट्रार दी वैबसाइट दे राहें रजिस्ट्रेशन प्रक्रिया गी पूरा करी सकदे ओ। तुसें रजिस्ट्रेशन फीस देने ते रजिस्ट्रार दी शर्तें कन्नै सैह्‌मत होने दी लोड़ पेई सकदी ऐ।
-अपने डोमेन गी कंफिगर करो: इक बारी जेकर तुं'दा डोमेन रजिस्टर होई जंदा ऐ तां तुस इसगी अपनी वैबसाइट, ईमेल जां होर आनलाइन सेवाएं कन्नै इस्तेमाल आस्तै कंफिगर करी सकदे ओ।
-इस गल्ला दा ध्यान रक्खना जरूरी ऐ जे भारती भाशाएं च डोमेन नाएं दी उपलब्धता लिपि ते भाशा दे अधार उप्पर बक्ख-बक्ख होई सकदी ऐ। इसदे अलावा, भारती भाशा डोमेन च खास लोड़ां जां बंदशां होई सकदियां न, इसलेई होर मती जानकारी आस्तै रजिस्ट्रार जां निक्सी कन्नै चैक्क करना जरूरी ऐ।
-मदद डैस्क
-सरकार.भारत(जां बराबर दे) दे तैह्‌त डोमेन नेम्स रजिस्टर करने आस्तै
-टोल फ्री नंबर :
+Read More
+ICANN
+The Internet Corporation for Assigned Names and Numbers (ICANN) published the 2022 Internationalized Domain Name (IDN) Annual Report. The report provides an
+overview of the status of IDNs at the top and second levels of the Domain Name System (DNS), as well as the IDN-related work being done by the ICANN organization (ICANN org) and community.
+Read More
+Websites In IDN
+Universal Acceptance Websites compliance with Internationalized Domain Names (IDNs) list
+View List
+Gallery
+View Gallery
+Making your website Universal Acceptance ready: Way Forward
+Workshop on Making Your email platform UA Ready
+Curtain Raiser
+Frequently Asked Questions
+How can we register domain names in Indian Languages ?
+Check the availability of your desired domain name: You can check if your desired domain name is available in Indian languages by visiting the website of the National Internet Exchange of India (NIXI) or any accredited registrar that offers Indian language domains.
+Choose a registrar: Once you have identified an available domain name, you need to choose a registrar that offers Indian language domains. NIXI provides a list of accredited registrars on its website that offer Indian language domains.
+Provide the necessary information: You will need to provide your personal and contact information, as well as the desired domain name and the language/script in which it is written. You may also need to provide additional documentation or verification for Indian language domains.
+Complete the registration process: Once you have provided the necessary information, you can complete the registration process through the registrar's website. You may need to pay a registration fee and agree to the terms and conditions of the registrar.
+Configure your domain: Once your domain is registered, you can configure it for use with your website, email, or other online services.
+It's important to note that the availability of domain names in Indian languages may vary depending on the script and language. Additionally, Indian language domains may have specific requirements or restrictions, so it's important to check with the registrar or NIXI for more information.
+How Universal Acceptance can be achieved?
+To achieve universal acceptance, it is important for all stakeholders in the Internet ecosystem, including domain name registries, email service providers, application developers, and others, to adopt and implement technical standards that support non-ASCII domain names and email addresses. Additionally, education and awareness-raising efforts can help promote universal acceptance and ensure that users are aware of the options available to them.
+What are the Universal Acceptance Guidelines?
+The Universal Acceptance (UA) Guidelines are a set of best practices and recommendations for supporting the use of all domain names and email addresses, regardless of their script, language, or format. The guidelines were developed by the Universal Acceptance Steering Group (UASG), a community-led initiative that works to promote Universal Acceptance of all domain names and email addresses.
+The UA Guidelines provide detailed recommendations for software and system developers, domain name registries, email service providers, and other stakeholders involved in the management and implementation of Internet systems and applications. The guidelines cover a wide range of topics related to Universal Acceptance, including:
+- Domain name registration and administration
+- Email address validation and handling
+- IDN implementation and support
+- Web and application development
+- Testing and validation
+- User education and awareness
+How can we get Email ID in Indian Languages?
+To get an email ID in Indian languages, you can follow these steps:
+Choose an email service provider: There are several email service providers that offer support for email IDs in Indian languages, such as Google, Microsoft, and Rediffmail. You can choose an email service provider that offers support for your preferred Indian language.
+Check the availability of your desired email ID: Once you have chosen an email service provider, you can check if your desired email ID is available in Indian languages. You may need to check the provider's website or contact their support team for more information.
+Create a new email account: If your desired email ID is available, you can create a new email account with your chosen email service provider. You will need to provide your personal and contact information, as well as choose your desired email ID and language.
+Configure your email settings: Once your email account is created, you can configure your email settings to suit your preferences, such as setting up filters, forwarding, or other email management options.
+Start using your email ID: Once your email account is set up and configured, you can start using your email ID in Indian languages for sending and receiving emails.
+It's important to note that not all email service providers offer support for email IDs in Indian languages, and the availability of languages may vary depending on the provider. Additionally, some Indian languages may have specific requirements or restrictions, so it's important to check with the email service provider for more information.
+Help Desk
+For Registering Domain Names Under सरकार.भारत (or equivalent)
+Toll Free Number :
 1800111555, 011-24305000
-वैबसाइट :https://servicedesk.nic.in
-.भारत (जां बराबर दे) दे तैह्‌त डोमेन नेम्स रजिस्टर करने आस्तै
-संपर्क : +91-11-48202040, +91-11-48202011, +91-11-48202002
-ईमेल : uasupport@nixi.in, rishab@nixi.in, rajiv@nixi.in, support@bhashanet.in
-श्री ऐस्स कृष्णन
-सैकटरी (इलैक्ट्रानिक्स ते सूचना प्रौद्योगिकी मंत्रालय)
-इंटरनैट्ट च सूचना तक्कररसाई गी लोकतांत्रिक बनाने दी परिवर्तनकारी समर्थऐ, फ्ही बी इसदीस्हेईकार गिरीइसदे बहुभाशीरूपांतरणच ऐ ।यूनिवर्सल अक्सैप्टैंस दीपैह्‌लकदमीदा समर्थन करियै, भारत विविधता दे इक चमचमांदेबीकन दे रूपै च खड़ोते दा ऐ, जेह्‌ड़ायूनिवर्सल अक्सैप्टैंसतेसमावेशतादेसार गी मूर्त रूपदिंदाऐ।
-श्री सुशील पाल
-संयुक्त सैकटरी (इलैक्ट्रानिक्स ते सूचना प्रौद्योगिकी मंत्रालय)
-नैट्टवर्केंदा मजमूआ इंटरनैट्टऐ परयूनिवर्सल अक्सैप्टैंसदे बगैर नैट्टवर्क द्हूरे न। डिजिटल शमूलियतच तेजी आह्‌ननेआस्तै, इक चीज जेह्‌ड़ी असयकीनी तौरा पर करी सकने आंओह् ऐ लोकें गी इंटरनैट्ट कन्नै
-जोड़ने आस्तै उं’दी भाशा दा इस्तेमाल करना।
-डा. देवेश त्यागी जी
-सीईओ (निक्सी )
+Website :https://servicedesk.nic.in
+For Registering Domain Names Under .भारत (or equivalent )
+Contact : +91-11-48202040, +91-11-48202011, +91-11-48202002
+Email : uasupport@nixi.in, rishab@nixi.in, rajiv@nixi.in, support@bhashanet.in
+Shri S. Krishnan
+Secretary (Ministry of Electronics and Information Technology)
+Internet has transformative potential in democratizing access to information, yet its true efficacy lies in its multilingual adaptation. By championing the Universal Acceptance initiative, India stands as a shining beacon of diversity, embodying the essence of universal acceptance and inclusivity.
+Shri Sushil Pal
+Joint Secretary (Ministry of Electronics and Information Technology)
+Collection of networks defines the internet but networks are incomplete without the Universal Acceptance. For accelerating digital inclusion, the one thing that we can do certainly is to use the language of the people to connect them to the Internet.
+Dr. Devesh Tyagi
+CEO ( NIXI )
 India is proud to champion a more inclusive and accessible internet for all. At NIXI, we are firmly committed to fostering a universal acceptance environment where everyone can access information and participate online in their preferred language.
 Pre-Global UA Day event
 27th March, 2023 (FICCI Auditorium)
@@ -273,29 +254,25 @@ Vote of Thanks by Shri Anil Kumar Jain, CEO, NIXI
 High Tea
 UA Day-2024
 Visit website for UA Day-2024 registration
-फायदेमंद लिंक
+Useful Links
 registry.in
 registry.gov.in
 coednssecurity.in
 mailindia.in
 unicode.org
 iana.org
-रजिस्ट्रारें दी सूची
-होर लिंक
-होम
-अक्सर पुच्छे जाने आह्‌ले सोआल
-ब्लाग
-गैलरी
-प्राइवेसी पालसी
-नियम ते शर्तां
-डैशबोर्ड
-साढ़े कन्नै राबता करो
-नैशनल इंटरनैट्ट ऐक्सचेंज आफ इंडिया (ऐन्नआईऐक्सआई)
-9मीं मंजल
-बी-विंग, स्टेट्समैन हाउस,148,
-बाराखंबा रोड, नमीं दिल्ली 110001
-ईमेल: uasupport[at]nixi[dot]in
-फोन: +91-11-48202000
-धुर उप्पर जाओ
-वैबसाइट उप्पर विशे-समग्गरी लगातार अपडेट कीती जा करदी ऐ।
-2024 © कापीराइट निक्सी सारे अधिकार आरक्षत ।
+registrars list
+Other Links
+Home
+FAQs
+Blogs
+Gallery
+Privacy Policy
+Terms & Conditions
+Dashboard
+Contact us
+National Internet Exchange of India (NIXI) 9th Floor, B-Wing, Statesman House,148, Barakhamba Road, New Delhi 110001
+Email: uasupport[at]nixi[dot]in
+Phone: +91-11-48202000
+Go to Top
+Contents on website are under continuous updation. 2024 © Copyright NIXI All rights reserved.
