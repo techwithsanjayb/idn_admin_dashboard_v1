@@ -5,6 +5,13 @@ from django.contrib import messages
 from .models import *
 from core.tasks import crawler_task,check_all_idn_domains_task
 from .helper import *
+from urllib.parse import urlparse
+
+
+def extract_domain(url):
+    parsed_url = urlparse(url)
+    domain_with_scheme = f"{parsed_url.scheme}://{parsed_url.netloc}"
+    return domain_with_scheme
 
 
 def home(request):
@@ -38,7 +45,10 @@ def idn_domain_forms(request):
                     URL_extracted = form.cleaned_data['IDN_domain']
 
                     # Check URL Protocal and updating
+                    # domain_extract = extract_domain(URL_extracted)
                     URL_extracted =  check_protocol(URL_extracted)
+                    
+                    # print('domain extracter',domain_extract)
                     print('URL_extracted',URL_extracted)
                     # Extracting only URL part 
                     
@@ -48,7 +58,7 @@ def idn_domain_forms(request):
                     if not exists:        
                         print("Check Exisitance of Domain : ", exists)
                         form_obj = form.save(commit=False)
-                        print('form_OBJ',form_obj)
+                        # print('form_OBJ',form_obj)
                         form_obj.content_language = 'NA'
                         form_obj.ssl_configuration_status='NA'
                         form_obj.idn_domain_running_status='NA'
@@ -98,3 +108,4 @@ def idn_domain_forms(request):
 def cron_function():
     check_all_idn_domains_task.delay()
     return redirect('core:idn_domain_record')
+
