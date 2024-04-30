@@ -1,5 +1,7 @@
 from django.db import models
 from django.utils import timezone
+
+
 # Create your models here.
 
 class category_list(models.Model):
@@ -13,7 +15,9 @@ class category_list(models.Model):
     class Meta:
         verbose_name_plural = "category_list"
 
+
 class English_Domain(models.Model):
+    department_name = models.TextField()
     domain_name = models.CharField(max_length=256)
     category = models.ForeignKey(category_list, on_delete=models.CASCADE)
     updated_On = models.DateField(default=timezone.now)
@@ -24,6 +28,7 @@ class English_Domain(models.Model):
 
     class Meta:
         verbose_name_plural = "English_Domain"
+
 
 class language_list(models.Model):
     language_name = models.CharField(max_length=25)
@@ -54,4 +59,3 @@ class URL_dashboard(models.Model):
 
     class Meta:
         verbose_name_plural = "URL_dashboard"
- 

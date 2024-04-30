@@ -7,12 +7,9 @@ from core.tasks import crawler_task,check_all_idn_domains_task
 from .helper import *
 
 
-
-
-
-
 def home(request):
     return render(request,'core/home.html')
+
     
 # -----ADDED BY SANJAYB -------
 
@@ -44,6 +41,7 @@ def idn_domain_forms(request):
                     URL_extracted =  check_protocol(URL_extracted)
                     print('URL_extracted',URL_extracted)
                     # Extracting only URL part 
+                    
                     # URL_extracted =  extract_domain(URL_extracted)
                                 
                     exists = URL_dashboard.objects.filter(IDN_domain=URL_extracted).exists()
