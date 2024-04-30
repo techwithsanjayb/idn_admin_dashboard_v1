@@ -39,9 +39,9 @@ class language_list(models.Model):
 
 # FOR instant display in status table 
 class URL_dashboard(models.Model):
-    English_domain =  models.ForeignKey(English_Domain, on_delete=models.CASCADE)
+    English_domain = models.ForeignKey(English_Domain, on_delete=models.CASCADE)
     Language = models.ForeignKey(language_list, on_delete=models.CASCADE)
-    IDN_domain  =   models.TextField()
+    IDN_domain = models.TextField()
     ssl_configuration_status = models.TextField()
     idn_domain_running_status = models.TextField()
     content_language = models.TextField()
